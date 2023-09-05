@@ -1,0 +1,5 @@
+C10017 "I:\morsounds\games\the killer"
+F door11close.ogg 39021 0 1540611154 0
+D s 44100 n 2 l 0:02.448 i 128k
+F door11open.ogg 44075 0 1540611154 0
+D s 44100 n 2 l 0:03.128 i 113k

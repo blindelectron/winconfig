@@ -1,0 +1,45 @@
+C10017 "C:\Users\Ethan Jones\rpp\wen electrons have a nerf gun war, but entities are involved"
+F 01-1-220423_1022.wav 17940544 0 1650727401 0
+D y 2022-04-23 s 48000 n 2 l 1:02.291
+D i 24
+F 01-1-220423_1031.wav 25645120 0 1650727991 0
+D y 2022-04-23 s 48000 n 2 l 1:29.043
+D i 24
+F 02-2-220423_1043.wav 40212544 0 1650728756 0
+D y 2022-04-23 s 48000 n 2 l 2:19.624
+D i 24
+F 03-3-220423_1249.wav 67565632 0 1650736395 0
+D y 2022-04-23 s 48000 n 2 l 3:54.600
+D i 24
+F 04-4-220423_1315.wav 64278592 0 1650737964 0
+D y 2022-04-23 s 48000 n 2 r 0:15.992
+D l 3:43.187 i 24
+F 05-5-220423_1330.wav 10229824 0 1650738643 0
+D y 2022-04-23 s 48000 n 2 r 2:33.992
+D l 0:35.517 i 24
+F 06-6-220423_1334.wav 16085056 0 1650738926 0
+D y 2022-04-23 s 48000 n 2 r 2:23.992
+D l 0:55.848 i 24
+F 06-6-220423_1336.wav 24496192 0 1650739101 0
+D y 2022-04-23 s 48000 n 2 r 2:23.992
+D l 1:25.053 i 24
+F 07-7-220423_1403.wav 46854208 0 1650740784 0
+D y 2022-04-23 s 48000 n 2 l 2:42.685
+D i 24
+F "bilding distroyer.wav" 3459944 0 1650744050 0
+D c "soundmorph, magic, elements, mystical, magical, cast, evil" s 96000 n 2 l 0:09.009
+D i 16
+F "ent gon.wav" 376584 0 1650745042 0
+D t "MAFDS TELEPORT SMALL Now I'm Here.wav" a "BOOM Library" y 2020-04-17 g Magic
+D c "BEAM LITTLE Airy surge to low crunch. Metallic resonance. Medium fast decay." s 96000 n 2 l 0:00.980
+D i 16
+F "ent here.wav" 530184 0 1650744984 0
+D t "MAFDS TELEPORT SMALL Now I'm Here.wav" a "BOOM Library" y 2020-04-17 g Magic
+D c "BEAM LITTLE Airy surge to low crunch. Metallic resonance. Medium fast decay." s 96000 n 2 l 0:01.380
+D i 16
+F "powers within.wav" 3913220 0 1650742000 0
+D t "MAFDS ZAP Moonlight Rush.wav" a "BOOM Library" y 2020-04-17 g Magic
+D c "SPARK HIT High glassy ring. Crunchy, piercing electric blast. Medium fast decay." s 96000 n 2 l 0:10.190
+D i 16
+F "titron speaks.wav" 2296772 0 1650748523 0
+D s 44100 n 2 l 0:13.020 i 16
