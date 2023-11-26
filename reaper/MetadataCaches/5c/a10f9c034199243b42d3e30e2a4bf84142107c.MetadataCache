@@ -1,0 +1,8 @@
+C10018 N:\ethan\audio\projects\audio_movie_demo\asets\hamid
+F hamid_draw_knife.wav 1025402 0 1700489729 0
+D y  c "KNIFE DRAW Small soft blade, undefined scabbard" s 96000 n 2
+D l 0:02.670 i 16
+F hamid_return.wav 620972 0 1700061418 0
+D s 44100 n 2 l 0:03.520 i 16
+F hamid_vanish.wav 599804 0 1700060797 0
+D s 44100 n 2 l 0:03.400 i 16

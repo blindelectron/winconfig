@@ -1,0 +1,41 @@
+add_newline = false
+format = '$all$username$hostname$directory$status$character'
+
+[character]
+success_symbol = '\$ '
+error_symbol = '[>](bold red) '
+
+[hostname]
+ssh_only = false
+ssh_symbol = '% '
+format = '[$ssh_symbol$hostname]($style):'
+
+[line_break]
+disabled = true
+
+[status]
+disabled = false
+format = '[$status]($style) '
+
+[username]
+format = '[$user]($style)@'
+show_always = true
+
+[python]
+symbol = 'py '
+
+[memory_usage]
+disabled = false
+format = 'using $symbol [${ram}( \| ${swap})]($style) '
+symbol = 'mem '
+
+[battery]
+full_symbol = ''
+charging_symbol = '+ '
+discharging_symbol = '- '
+unknown_symbol = '? '
+empty_symbol = '! '
+format = 'b at [$symbol$percentage]($style) '
+
+[[battery.display]]
+threshold = 15

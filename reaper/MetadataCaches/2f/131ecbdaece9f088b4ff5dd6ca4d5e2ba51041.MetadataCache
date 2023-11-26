@@ -1,0 +1,11 @@
+C10018 "N:\ethan\audio\projects\my audio world\lyra"
+F "alternating alarm.wav" 1563634 0 1699283201 0
+D y " " s 96000 n 2 l 0:04.071
+D i 16
+F "Impact detected.wav" 162332 0 1699396535 0
+D s 44100 n 2 l 0:00.920 i 16
+F "scan and completion.wav" 559380 0 1699282916 0
+D s 44100 n 2 l 0:03.170 i 16
+F solo_beeps_02.flac 35099 0 1615920952 0
+D y " " c "Made with Sony ACID Pro 6.0" s 48000 n 2
+D l 0:00.223 i 16

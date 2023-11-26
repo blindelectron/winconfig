@@ -1,0 +1,22 @@
+C10018 "N:\ethan\sync\rsl\moresounds\boom library\Close Combat\Designed"
+F "CC-DS Body Fall Concrete Hard 02.flac" 3273119 0 1625754552 0
+D d "BODY FALL DROP Dull and massive body drop with high bone break elements. Boomy low frequencies." s 96000 n 2 l 0:12.276
+D i 24
+F "CC-DS Body Fall Generic Hard 02.flac" 1864355 0 1615864046 0
+D d "BODY FALL DROP Dull cloth rustling fall with clear main impact and different body parts." s 96000 n 2 l 0:08.500
+D i 24
+F "CC-DS Body Fall Generic Medium 02.flac" 1916171 0 1625754556 0
+D d "BODY FALL DROP Clear and hard impacts surround by muffled cloth rustling parts." s 96000 n 2 l 0:07.850
+D i 24
+F "CC-DS Body Fall Generic Soft 02.flac" 1775684 0 1615946368 0
+D d "BODY FALL DROP Clean body impact with leather character." s 96000 n 2 l 0:07.650
+D i 24
+F "CC-DS Bone Break Medium 01.flac" 1110221 0 1625754554 0
+D d "BONE BREAK Dry and crisp splintering bones." s 96000 n 2 l 0:05.906
+D i 24
+F "CC-DS Whoosh Leather Medium 01.flac" 1654288 0 1615931314 0
+D d "WHOOSH LEATHER MEDIUM Fast tearing move with high leather wobble." s 96000 n 2 l 0:06.739
+D i 24
+F "CC-DS Whoosh Leather Soft 01.flac" 652321 0 1613638164 0
+D d "WHOOSH LEATHER SOFT High leather movement sound." s 44100 n 2 l 0:06.163
+D i 24

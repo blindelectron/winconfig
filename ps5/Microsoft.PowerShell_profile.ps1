@@ -213,6 +213,7 @@ Remove-Item Alias:cat
 function ls($args) {busybox ls -w 1 --color=auto $args}
 function la {ls -aa}
 function ll {ls -la}
+
 #set up ssh ip number function.
 function ssi() {
 $arg0=$args[0]
@@ -220,6 +221,7 @@ $arg1=$args[1]
 $restArgs=$args[2..($args.length-1)]
 ssh -l($arg0) 192.168.1.$arg1 $restArgs
 }
+
 ## Line to set prompt
 function prompt {"PS5: $env:username@$env:computername : $pwd>"}
 
@@ -230,9 +232,11 @@ $ChocolateyProfile = "$env:ChocolateyInstall\helpers\chocolateyProfile.psm1"
 if (Test-Path($ChocolateyProfile)) {
   Import-Module "$ChocolateyProfile"
 }
+
 #tab completion for scoop.
 Import-Module "$($(Get-Item $(Get-Command scoop.ps1).Path).Directory.Parent.FullName)\modules\scoop-completion"
 #to replace scoops built in search with the faster scoop-search
 Invoke-Expression (&scoop-search --hook)
 
-
+#star ship prompt
+Invoke-Expression (&starship init powershell)

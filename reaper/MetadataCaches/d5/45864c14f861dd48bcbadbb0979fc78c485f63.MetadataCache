@@ -1,0 +1,21 @@
+C10018 "N:\ethan\sync\rsl\moresounds\boom library\Magic - Arcane Forces\Designed"
+F "MAFDS DEBUFF LARGE Taint.flac" 5448532 0 1530822616 0
+D t "MAFDS DEBUFF LARGE Taint.wav" a "BOOM Library" y 2020-04-28 g Magic
+D c "DISENCHANT BIG Metallic noise sweet, crunch, fluttering modulated, medium decay." d "DISENCHANT BIG Metallic noise sweet, crunch, fluttering modulated, medium decay." s 96000 n 2
+D l 0:29.189 i 24 m 0
+F "MAFDS PROJECTILE ARCANE CAST Lunar Blaze.flac" 8641937 0 1615905352 0
+D t "MAFDS PROJECTILE ARCANE CAST Lunar Blaze.wav" a "BOOM Library" y 2020-04-17 g Magic
+D c "MISSILE OBSCURE Low airy tremble, fluttering metallic resonance. Deep crunchy implosion." d "MISSILE OBSCURE Low airy tremble, fluttering metallic resonance. Deep crunchy implosion." s 96000 n 2
+D l 0:31.350 i 24 m 0
+F "MAFDS PROJECTILE ARCANE IMPACT Void Bolt.flac" 2283015 0 1625754552 0
+D t "MAFDS PROJECTILE ARCANE IMPACT Void Bolt.wav" a "BOOM Library" y 2020-04-17 g Magic
+D c "MISSILE OBSCURE Laser blast. Deep crunch. Low tremble. Medium fast decay." d "MISSILE OBSCURE Laser blast. Deep crunch. Low tremble. Medium fast decay." s 96000 n 2
+D l 0:16.600 i 24 m 0
+F "MAFDS WHOOSH DIVINE SMALL Charm of the Void.flac" 4114443 0 1613686890 0
+D t "MAFDS WHOOSH DIVINE SMALL Charm of the Void.wav" a "BOOM Library" y 2020-04-17 g Magic
+D c "SWOOSH CELESTIAL Resonant, metallic swoosh. Doppler shift. Medium fast decay." d "SWOOSH CELESTIAL Resonant, metallic swoosh. Doppler shift. Medium fast decay." s 96000 n 2
+D l 0:24.655 i 24 m 0
+F "MAFDS WHOOSH DIVINE SMALL Tiny Shards Of Hope.flac" 3115678 0 1613686766 0
+D t "MAFDS WHOOSH DIVINE SMALL Tiny Shards Of Hope.wav" a "BOOM Library" y 2020-04-17 g Magic
+D c "SWOOSH CELESTIAL High ringing, airy swoosh. Brittle clatter, shimmer. Medium decay." d "SWOOSH CELESTIAL High ringing, airy swoosh. Brittle clatter, shimmer. Medium decay." s 96000 n 2
+D l 0:16.256 i 24 m 0

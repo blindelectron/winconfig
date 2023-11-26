@@ -1,0 +1,9 @@
+C10018 "N:\ethan\sync\rsl\moresounds\Studio 23\S23_Grass_Footsteps_Collection\Grass_Loops\Grass_Trainers_Loop"
+F S23_SFX_Footsteps_Grass_Trainers_Loop_Jogging.flac 2494646 0 1615339664 0
+D a "Studio 23 LTD" y 2018-11-0 g SFX c S23_SFX_Footsteps_Grass_Trainers_Loop_Jogging
+D d S23_SFX_Footsteps_Grass_Trainers_Loop_Jogging s 96000 n 2 r 1:16.869
+D l 0:12.344 i 24 m 0
+F S23_SFX_Footsteps_Grass_Trainers_Loop_Walk_Fast.flac 3448407 0 1615339666 0
+D a "Studio 23 LTD" y 2018-11-0 g SFX c S23_SFX_Footsteps_Grass_Trainers_Loop_Walk_Fast
+D d S23_SFX_Footsteps_Grass_Trainers_Loop_Walk_Fast s 96000 n 2 r 0:51.920
+D l 0:17.114 i 24 m 0

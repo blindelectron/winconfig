@@ -235,4 +235,5 @@ Import-Module "$($(Get-Item $(Get-Command scoop.ps1).Path).Directory.Parent.Full
 #to replace scoops built in search with the faster scoop-search
 Invoke-Expression (&scoop-search --hook)
 
-
+#star ship prompt
+Invoke-Expression (&starship init powershell)

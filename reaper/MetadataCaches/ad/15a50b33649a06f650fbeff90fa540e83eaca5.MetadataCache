@@ -1,0 +1,9 @@
+C10018 "N:\ethan\audio\projects\my audio world\winged"
+F dragon_land.wav 691532 0 1699311781 0
+D s 44100 n 2 l 0:03.920 i 16
+F dragon_take_off.wav 763856 0 1699046469 0
+D s 44100 n 2 l 0:04.330 i 16
+F "flap dragon01.wav" 374012 0 1698847876 0
+D s 44100 n 2 l 0:02.120 i 16
+F "flap dragon02.wav" 297808 0 1698847938 0
+D s 44100 n 2 l 0:01.688 i 16
