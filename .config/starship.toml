@@ -1,8 +1,8 @@
 add_newline = false
-format = '$all$username$hostname$directory$status$character'
+format = '$all$username$hostname$directory$status$shell$character'
 
 [character]
-success_symbol = '\$ '
+success_symbol = '[\$](bold green) '
 error_symbol = '[>](bold red) '
 
 [hostname]
@@ -35,6 +35,9 @@ symbol = 'cont '
 
 [crystal]
 symbol = 'cristal '
+
+[cmake]
+symbol = 'cm '
 
 [daml]
 symbol = 'daml '
@@ -162,12 +165,8 @@ symbol = 'vagrt '
 [zig]
 symbol = 'zig '
 
-
-
-
 [jobs]
 symbol = 'jobs'
-
 
 [memory_usage]
 disabled = false
@@ -188,3 +187,5 @@ threshold = 15
 [directory]
 read_only = 'r'
 
+[shell]
+disabled = false
