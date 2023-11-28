@@ -1,5 +1,5 @@
 mklink /J .config %userprofile%\.config
-mklink /J vscode\.vscode %userprofile%\.config
+mklink /J vscode\.vscode %userprofile%\.vscode
 mklink /J vscode\Code %appdata%\Code
 mklink /J foobar2000-v2 %appdata%\foobar2000-v2
 mklink /J qutebrowser %appdata%\qutebrowser\config
